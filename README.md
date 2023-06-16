@@ -1,0 +1,1 @@
+This is a CV built with [Next.js](https://nextjs.org).
