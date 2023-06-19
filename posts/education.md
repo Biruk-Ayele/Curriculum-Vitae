@@ -18,7 +18,7 @@ On the other hand, Static Generation is **not** a good idea if you cannot pre-re
 
 In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data. -->
 
-**SEPTEMBER 2015 - AUGUST 2021** - Bachelor’s Degree in **Electrical and Computer Engineering**(computer focus) - from **Wachemo University** (Hossana, Ethiopia).
+**SEPTEMBER 2015 - AUGUST 2021** - Bachelor’s Degree in **Electrical and Computer Engineering**(computer focus) - from **Wachemo University** (Hossana, Ethiopia). With **CGPA 2.98** 
 
 **SEPTEMBER 2012 - JUNE 2015** - Debub Ethiopia Academy secondary and preparatory school, Hawassa.
 
