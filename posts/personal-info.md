@@ -11,4 +11,6 @@ date: '2023-06-15'
 
 **e-mail** - bruuk1212@gmail.com
 
-Sex Male | Date of birth 03 Mar 1997 | Nationality Ethiopian
+**Sex** - Male | **Date of birth** - 03 Mar 1997
+
+**Nationality** - Ethiopian
